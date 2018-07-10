@@ -4,4 +4,5 @@ def crazy_strings(a,b)
  put ("Hello", "Friends").upcase.reverse
 end
 
-def cr
+def crazy_strings(z)
+  put ("Hi", "People").
